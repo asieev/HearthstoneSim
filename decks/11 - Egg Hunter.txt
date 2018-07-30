@@ -1,0 +1,27 @@
+### Egg Hunter - Standard Meta Snapshot - July 22, 2018
+# Class: Hunter
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Candleshot
+# 2x (1) Hunter's Mark
+# 2x (1) Play Dead
+# 2x (1) Tracking
+# 1x (2) Grievous Bite
+# 2x (2) Loot Hoarder
+# 2x (3) Devilsaur Egg
+# 2x (3) Terrorscale Stalker
+# 2x (4) Defender of Argus
+# 2x (4) Flanking Strike
+# 1x (4) Houndmaster Shaw
+# 2x (5) Carnivorous Cube
+# 2x (5) Witchwood Grizzly
+# 1x (6) Deathstalker Rexxar
+# 1x (6) Mossy Horror
+# 2x (6) Savannah Highmane
+# 1x (8) Kathrena Winterwisp
+# 1x (9) King Krush
+#
+AAECAR8GhsMCgPMChtMCy+wCtuoC+AgM4eMCjQGczQKXCPsBq8IC2MIC+wXd0gKL4QLy8QLtCQA=
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

@@ -1,0 +1,26 @@
+### Token Druid - Standard Meta Snapshot - July 8, 2018
+# Class: Druid
+# Format: Standard
+# Year of the Raven
+#
+# 1x (0) Innervate
+# 2x (1) Lesser Jasper Spellstone
+# 1x (2) Power of the Wild
+# 2x (2) Wild Growth
+# 2x (2) Wrath
+# 2x (3) Savage Roar
+# 2x (4) Branching Paths
+# 1x (4) Oaken Summons
+# 2x (4) Soul of the Forest
+# 2x (4) Swipe
+# 2x (4) Violet Teacher
+# 2x (4) Wispering Woods
+# 2x (5) Arcane Tyrant
+# 2x (5) Nourish
+# 2x (6) Spreading Plague
+# 1x (7) Malfurion the Pestilent
+# 2x (10) Ultimate Infestation
+#
+AAECAZICBP4B9wOE5gKZ0wINmNIC5AjEBuYFntIC/QJAhQjX7wLb0wJfoM0Ch84CAA==
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
