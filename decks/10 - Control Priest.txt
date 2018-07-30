@@ -1,0 +1,28 @@
+### Control Priest - Standard Meta Snapshot - July 8, 2018
+# Class: Priest
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Northshire Cleric
+# 2x (1) Power Word: Shield
+# 1x (2) Acidic Swamp Ooze
+# 2x (2) Divine Hymn
+# 2x (2) Mind Blast
+# 2x (2) Shadow Visions
+# 2x (2) Wild Pyromancer
+# 1x (3) Acolyte of Pain
+# 2x (3) Twilight Acolyte
+# 2x (4) Duskbreaker
+# 1x (4) Mass Dispel
+# 2x (4) Twilight Drake
+# 1x (6) Cabal Shadow Priest
+# 1x (6) Holy Fire
+# 1x (6) Skulking Geist
+# 2x (7) Psychic Scream
+# 2x (8) Primordial Drake
+# 1x (8) Shadowreaper Anduin
+# 1x (9) Alexstrasza
+#
+AAECAa0GCIoH+wzWCpAC1QqgzgKQ0wLFBAvyDOUEvfMCoQTRwQL2B/zqAsvmAo0I6NACyccCAA==
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

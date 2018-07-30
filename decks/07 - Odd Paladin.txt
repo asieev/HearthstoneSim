@@ -1,0 +1,26 @@
+### Odd Paladin - Standard Meta Snapshot - July 8, 2018
+# Class: Paladin
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Acherus Veteran
+# 2x (1) Argent Squire
+# 2x (1) Blessing of Might
+# 2x (1) Fire Fly
+# 2x (1) Lost in the Jungle
+# 2x (1) Righteous Protector
+# 1x (3) Divine Favor
+# 2x (3) Raid Leader
+# 1x (3) Tinkmaster Overspark
+# 2x (3) Unidentified Maul
+# 2x (3) Void Ripper
+# 2x (5) Fungalmancer
+# 1x (5) Leeroy Jenkins
+# 2x (5) Level Up!
+# 2x (7) Corridor Creeper
+# 2x (7) Vinecleaver
+# 1x (9) Baku the Mooneater
+#
+AAECAZ8FBKcFugSvBJ74Ag2VzgL1BUbrwgK4xwLjywL5CtblAv3qAtHhArXmAvvTAoPHAgA=
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

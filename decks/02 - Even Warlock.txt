@@ -1,0 +1,28 @@
+### Even Warlock - Standard Meta Snapshot - July 8, 2018
+# Class: Warlock
+# Format: Standard
+# Year of the Raven
+#
+# 1x (2) Acidic Swamp Ooze
+# 2x (2) Defile
+# 1x (2) Plated Beetle
+# 2x (2) Stubborn Gastropod
+# 2x (2) Sunfury Protector
+# 2x (2) Vulgar Homunculus
+# 2x (4) Hellfire
+# 2x (4) Hooked Reaver
+# 2x (4) Lesser Amethyst Spellstone
+# 2x (4) Shroom Brewer
+# 2x (4) Spellbreaker
+# 2x (4) Twilight Drake
+# 1x (6) Dread Infernal
+# 1x (6) Genn Greymane
+# 1x (6) Siphon Soul
+# 1x (6) The Black Knight
+# 1x (8) The Lich King
+# 1x (10) Bloodreaver Gul'dan
+# 2x (12) Mountain Giant
+#
+AAECAcn1AgiKB+rmAvsHzfQCzAj4DMLOApfTAgvnywLmwgL7BvHQArYH/dACiNIC2OUC8gWNCOEHAA==
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone

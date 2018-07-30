@@ -1,0 +1,27 @@
+### Taunt Druid - Standard Meta Snapshot - July 22, 2018
+# Class: Druid
+# Format: Standard
+# Year of the Raven
+#
+# 2x (1) Lesser Jasper Spellstone
+# 2x (1) Naturalize
+# 2x (2) Wild Growth
+# 1x (2) Wrath
+# 1x (3) Witching Hour
+# 2x (4) Branching Paths
+# 2x (4) Ironwood Golem
+# 2x (4) Oaken Summons
+# 2x (4) Swipe
+# 2x (5) Carnivorous Cube
+# 2x (5) Nourish
+# 1x (5) Trogg Gloomeater
+# 2x (8) Primordial Drake
+# 1x (8) The Lich King
+# 2x (9) Dragonhatcher
+# 1x (9) Hadronox
+# 1x (9) Master Oakheart
+# 2x (9) Sleepy Dragon
+#
+AAECAZICBsQGjfACjeYCws4Cr9MC8eoCDJjSAukB5Aie0gKU0gKE5gJAi+ECX8nHAt3rAubTAgA=
+#
+# To use this deck, copy it to your clipboard and create a new deck in Hearthstone
